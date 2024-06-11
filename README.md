@@ -1,11 +1,9 @@
 # POP MY BALLOON
 
-<br>
-
 ## **Description 📃**
 - The basic premise of the game remains the same, regardless of the difficulty level or the input method. There will be a range of numbers from which players can choose a number. If the manage to guess the randomly chosen number, the balloon will pop and they lose. If they manage to avoid the lucky number, the range decreases such that their guess either becomes the new lower bound or new upper bound, and the balloon inflates just a little bit more.
 
-## **functionalities 🎮**
+## **Functionalities 🎮**
 - We have two levels:
 
 Easy Level: The range starts off as 0-100 and players can guess any number within the range.
